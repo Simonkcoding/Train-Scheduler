@@ -1,0 +1,27 @@
+.banner{
+text-align: center;
+}
+.card{
+    margin:10px;
+    padding: 10px;
+}
+.notice{
+    width:100%;
+}
+.train-info,
+.form{
+    padding:10px;
+}
+tr:hover{
+    background-color: aliceblue;
+}
+
+.banner{
+background-color: beige;
+margin:10px;
+padding:5px;
+}
+
+.infoInput-text{
+    margin-bottom:5px;
+}
